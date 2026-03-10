@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "能動",
+  "base_artist": "三浦大知",
+  "createdAt": "2026-03-10T11:11:43.768265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "能動",
+      "artist": "Daichi Miura",
+      "has_synced": true,
+      "path": "select/01_能動_Daichi_Miura.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "能動",
+      "artist": "三浦大知",
+      "has_synced": false,
+      "path": "select/02_能動_三浦大知.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "能動",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_能動_三浦_大知.txt"
+    }
+  ]
+}
